@@ -4,6 +4,7 @@
 		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 		<link rel="stylesheet" type="text/css" href="game.css">
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans|Caesar+Dressing|Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type="text/css">
     <link rel="icon" type="image/png" href="img/shaman_logo.png" />
 		<title>Shaman Legion - Totem Game</title>
 	</head>
@@ -86,6 +87,10 @@
       <div class="clearfix"></div>
     </div>
     <div id="win"></div>
+    <footer class="footer">
+        <i class="fa fa-lg fa-github"></i> <a href="https://github.com/WFrancois/wow-affixes">GitHub</a><br />
+        Created By Wisak (Except Design)
+    </footer>
 		<script src="jquery-2.2.0.min.js"></script>
 		<script src="script.js"></script>
 	</body>
