@@ -88,7 +88,7 @@
     </div>
     <div id="win"></div>
     <footer class="footer">
-        <i class="fa fa-lg fa-github"></i> <a href="https://github.com/WFrancois/wow-affixes">GitHub</a><br />
+        <i class="fa fa-lg fa-github"></i> <a href="https://github.com/WFrancois/totem-game">GitHub</a><br />
         Created By Wisak (Except Design)
     </footer>
 		<script src="jquery-2.2.0.min.js"></script>
